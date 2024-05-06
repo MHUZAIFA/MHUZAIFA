@@ -1,7 +1,8 @@
-Visitors: 
-<br>
-<br>
-<img src="https://profile-counter.glitch.me/{huzaifafcrit}/count.svg" alt="huzaifafcrit :: Visitor's Count" />
+<div style="display: flex; align-items: center; margin-bottom: 10px">
+    <span> Visitors: </span> 
+    &nbsp;
+    <img src="https://profile-counter.glitch.me/{huzaifafcrit}/count.svg" alt="huzaifafcrit :: Visitor's Count" />
+</div>
 
 <img src="./imgs/banner.png" alt="huzaifa" />
 
@@ -16,16 +17,17 @@ I am a Masters of Applied Computer Science student at Concordia University based
 
 ## Skills
 
-| Programming Languages | UI/UX         | Frontend Technologies | API Technologies | Databases          | Cloud     | Version Control | CI/CD           | Tools        | User Engagement           |
-|-----------------------|---------------|-----------------------|-------------------|---------------------|-----------|-----------------|-----------------|--------------|---------------------------|
-| Python                | Figma         | ReactJs               | Asp.Net Core      | Cassandra           | Azure     | GitHub          | Azure DevOps    | Postman      | Google Tag Manager        |
-| Java                  | Adobe XD      | Angular 2+            | Entity Framework  | Cosmos DB           | Firebase  | GitLab          |                 | Git          | Google Analytics          |
-| C#                    |               | ExpressJS             | ADO.Net           | MongoDB             |           |                 |                 | Jira         | Microsoft Clarity         |
-| C++                   |               |                       Jasmine | xUnit             | MS SQL Server       |           |                 |                 | Jupyter      |                           |
-| HTML/CSS              |               |               Karma | ExpressJS         | MySQL               |           |                 |                 | LaTeX        |                           |
-| JavaScript            |               |                  | NodeJS            |                     |           |                 |                 |              |                           |
-| TypeScript            |               |                       | PHP               |                     |           |                 |                 |              |                           |
-| SQL                   |               |                       |                   |                     |           |                 |                 |              |                           |
+| Programming Languages | UI/UX         | Frontend Technologies | API Technologies | Databases          | Cloud     | CI/CD           | Tools        | User Engagement           |
+|-----------------------|---------------|-----------------------|-------------------|---------------------|-----------|-----------------|--------------|---------------------------|
+| Python                | Figma         | React Native               | Asp.Net Core      | Cassandra           | Azure     | Azure DevOps    | Postman      | Google Tag Manager        |
+| Java                  | Adobe XD      | React JS            | Entity Framework  | Cosmos DB           | Firebase  |                 | Git          | Google Analytics          |
+| C#                    |               | Angular 2+             | ADO.Net           | MongoDB             |   Docker        |                 | Jira         | Microsoft Clarity         |
+| C++                   |               | ExpressJS               | xUnit             | MS SQL Server       |           |                 | Jupyter      |                           |
+| HTML/CSS              |  | Jasmine                 | ExpressJS         | MySQL               |           |                 | LaTeX        |                           |
+| JavaScript            |               | Karma          | NodeJS            |                     |           |                 |              |                           |
+| TypeScript            |               |                       | PHP               |                     |           |                 |              |                           |
+| SQL                   |               |                       |                   |                     |           |                 |              |                           |
+|                       |               |                       |                   |                     |     |                 |              |                           |
 
 <br>
 
