@@ -1,5 +1,5 @@
-<span> Visitors: </span> 
-&nbsp;
+Visitors:
+<br>
 <img src="https://profile-counter.glitch.me/{huzaifafcrit}/count.svg" alt="huzaifafcrit :: Visitor's Count" />
 
 <img src="./imgs/banner.png" alt="huzaifa" />
