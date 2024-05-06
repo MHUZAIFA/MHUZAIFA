@@ -29,11 +29,11 @@ I am a Masters of Applied Computer Science student at Concordia University based
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifafcrit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifafcrit&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
-## GitHub Stats
+## Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifafcrit&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifafcrit&theme=default" alt="mystreak"/>
 
 <br>
 
