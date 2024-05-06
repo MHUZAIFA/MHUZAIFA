@@ -1,8 +1,6 @@
-<div style="display: flex; align-items: center; margin-bottom: 10px">
-    <img src="https://profile-counter.glitch.me/{huzaifafcrit}/count.svg" alt="huzaifafcrit :: Visitor's Count" />
-    <span style="margin-left: 5px"> Visitors </span>
-</div>
-
+<span> Visitors: </span> 
+&nbsp;
+<img src="https://profile-counter.glitch.me/{huzaifafcrit}/count.svg" alt="huzaifafcrit :: Visitor's Count" />
 
 <img src="./imgs/banner.png" alt="huzaifa" />
 
