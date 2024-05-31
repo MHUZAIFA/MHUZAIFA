@@ -1,6 +1,6 @@
 Visitors:
 <br>
-<img src="https://profile-counter.glitch.me/{huzaifafcrit}/count.svg" alt="huzaifafcrit :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{MHUZAIFA}/count.svg" alt="MHUZAIFA :: Visitor's Count" />
 
 <img src="./imgs/banner.png" alt="huzaifa" />
 
@@ -29,15 +29,15 @@ I am a Masters of Applied Computer Science student at Concordia University based
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifafcrit&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MHUZAIFA&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
 ## Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifafcrit&theme=default" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MHUZAIFA&theme=default" alt="mystreak"/>
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huzaifafcrit)](https://github.com/huzaifafcrit)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MHUZAIFA)](https://github.com/MHUZAIFA)
 
 ## Contact Me
 
@@ -48,7 +48,7 @@ I am a Masters of Applied Computer Science student at Concordia University based
 <a href="https://huzaifaanjumportfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=flat-square&logo=web&logoColor=white" alt="Portfolio">
 </a>
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhuzaifafcrit&longCache=true"/>
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DMHUZAIFA&longCache=true"/>
 <br>
 <br>
 Feel free to explore my projects and reach out to me if you have any questions or collaboration opportunities!
