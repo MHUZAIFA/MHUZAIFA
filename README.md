@@ -1,3 +1,5 @@
+[Former Code Vault](https://github.com/huzaifafcrit)
+
 Visitors:
 <br>
 <img src="https://profile-counter.glitch.me/{MHUZAIFA}/count.svg" alt="MHUZAIFA :: Visitor's Count" />
@@ -15,17 +17,17 @@ I am a Masters of Applied Computer Science student at Concordia University based
 
 ## Skills
 
-| Programming Languages | UI/UX         | Frontend Technologies | API Technologies | Databases          | Cloud     | CI/CD           | Tools        | User Engagement           |
+| Programming Languages | UI/UX         | Frontend Technologies | API Technologies  | Databases           | Cloud     | CI/CD           | Tools        | User Engagement           |
 |-----------------------|---------------|-----------------------|-------------------|---------------------|-----------|-----------------|--------------|---------------------------|
-| Python                | Figma         | React Native               | Asp.Net Core      | Cassandra           | Azure     | Azure DevOps    | Postman      | Google Tag Manager        |
-| Java                  | Adobe XD      | React JS            | Entity Framework  | Cosmos DB           | Firebase  |                 | Git          | Google Analytics          |
-| C#                    |               | Angular 2+             | ADO.Net           | MongoDB             |   Docker        |                 | Jira         | Microsoft Clarity         |
-| C++                   |               | ExpressJS               | xUnit             | MS SQL Server       |           |                 | Jupyter      |                           |
-| HTML/CSS              |  | Jasmine                 | ExpressJS         | MySQL               |           |                 | LaTeX        |                           |
-| JavaScript            |               | Karma          | NodeJS            |                     |           |                 |              |                           |
-| TypeScript            |               |                       | PHP               |                     |           |                 |              |                           |
+| Python                | Figma         | NextJS                | Asp.Net Core      | Cassandra           | Azure     | Azure DevOps    | Postman      | Google Tag Manager        |
+| Java                  | Adobe XD      | React Native          | Entity Framework  | Cosmos DB           | Firebase  |                 | Git          | Google Analytics          |
+| C#                    |               | React JS              | ADO.Net           | MongoDB             | Vercel    |                 | Jira         | Microsoft Clarity         |
+| C++                   |               | Angular 2+            | xUnit             | MS SQL Server       | Docker    |                 | Jupyter      |                           |
+| HTML/CSS              |               | ExpressJS             | ExpressJS         | MySQL               |           |                 | LaTeX        |                           |
+| JavaScript            |               | Jasmine               | NodeJS            |                     |           |                 |              |                           |
+| TypeScript            |               | Karma                 | PHP               |                     |           |                 |              |                           |
 | SQL                   |               |                       |                   |                     |           |                 |              |                           |
-|                       |               |                       |                   |                     |     |                 |              |                           |
+|                       |               |                       |                   |                     |           |                 |              |                           |
 
 <br>
 
