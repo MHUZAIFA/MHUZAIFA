@@ -12,22 +12,22 @@ Welcome to my GitHub portfolio! I'm Huzaifa, and I'm passionate about software d
 
 ## About Me
 
-I am a Masters of Applied Computer Science student at Concordia University based in Montreal, Canada. I enjoy building intutive apps and constantly seek to learn and grow in the field of Computer Science. 
+I am a Masters of Applied Computer Science student at Concordia University and a Full-stack developement Intern at Flexspring based in Montreal, Canada. I enjoy building intutive apps and constantly seek to learn and grow in the field of Computer Science. 
 
 
 ## Skills
 
 | Programming Languages | UI/UX         | Frontend Technologies | API Technologies  | Databases           | Cloud     | CI/CD           | Tools        | User Engagement           |
 |-----------------------|---------------|-----------------------|-------------------|---------------------|-----------|-----------------|--------------|---------------------------|
-| Python                | Figma         | NextJS                | Asp.Net Core      | Cassandra           | Azure     | Azure DevOps    | Postman      | Google Tag Manager        |
-| Java                  | Adobe XD      | React Native          | Entity Framework  | Cosmos DB           | Firebase  |                 | Git          | Google Analytics          |
-| C#                    |               | React JS              | ADO.Net           | MongoDB             | Vercel    |                 | Jira         | Microsoft Clarity         |
-| C++                   |               | Angular 2+            | xUnit             | MS SQL Server       | Docker    |                 | Jupyter      |                           |
-| HTML/CSS              |               | ExpressJS             | ExpressJS         | MySQL               |           |                 | LaTeX        |                           |
-| JavaScript            |               | Jasmine               | NodeJS            |                     |           |                 |              |                           |
-| TypeScript            |               | Karma                 | PHP               |                     |           |                 |              |                           |
-| SQL                   |               |                       |                   |                     |           |                 |              |                           |
-|                       |               |                       |                   |                     |           |                 |              |                           |
+| Python                | Figma         | NextJS                | Java Springboot   | Cassandra           | Azure     | Azure DevOps    | Postman      | Google Tag Manager        |
+| Java                  | Adobe XD      | React Native          | NextJS            | Cosmos DB           | Firebase  | Jenkins         | Git          | Google Analytics          |
+| C#                    | Axure         | React JS              | Asp.Net Core      | MongoDB             | Vercel    | Portainer       | Jira         | Microsoft Clarity         |
+| C++                   |               | Angular 2+            | EF Core           | MS SQL Server       | Docker    |                 | Jupyter      |                           |
+| HTML/CSS              |               | ExpressJS             | ADO.Net           | MySQL               | AWS       |                 | LaTeX        |                           |
+| JavaScript            |               | Jasmine               | xUnit JUnit       | Postgres            |           |                 |              |                           |
+| TypeScript            |               | Karma                 | ExpressJS         |                     |           |                 |              |                           |
+| SQL                   |               |                       | NodeJS            |                     |           |                 |              |                           |
+|                       |               |                       | PHP               |                     |           |                 |              |                           |
 
 <br>
 
