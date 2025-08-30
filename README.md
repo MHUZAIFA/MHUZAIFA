@@ -1,9 +1,5 @@
 [Former Code Vault](https://github.com/huzaifafcrit)
 
-Visitors:
-<br>
-<img src="https://profile-counter.glitch.me/{MHUZAIFA}/count.svg" alt="MHUZAIFA :: Visitor's Count" />
-
 <img src="./imgs/banner.png" alt="huzaifa" />
 
 # Huzaifa's GitHub Portfolio
