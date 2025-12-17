@@ -25,15 +25,11 @@ I am a Masters of Applied Computer Science student at Concordia University and a
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MHUZAIFA&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
-
 ## Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHUZAIFA&theme=default" alt="mystreak"/>
 
 <br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MHUZAIFA)](https://github.com/MHUZAIFA)
 
 ## Contact Me
 
