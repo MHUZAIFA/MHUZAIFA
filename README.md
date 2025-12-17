@@ -1,7 +1,5 @@
 [Former Code Vault](https://github.com/huzaifafcrit)
 
-<img src="./imgs/banner.png" alt="huzaifa" />
-
 # Huzaifa's GitHub Portfolio
 
 Welcome to my GitHub portfolio! I'm Huzaifa, and I'm passionate about software devlopment. Here you'll find a collection of my projects and contributions.
